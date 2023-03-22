@@ -6,5 +6,7 @@ This repository stores my practice of creating and modifying the Memes Generator
 * I've used the use-state and use-effect hooks to dynamically change the text marked on the memes and make API calls for the meme images.
 
 ## 📸 ScreenCaptures
-<img src="./images/react project 31.PNG" width=450px height=250px />  <img src="./images/react project 32.PNG" width=450px height=250px />
+
+|<img src="./images/react project 31.PNG" width=450px height=250px/> | <img src="./images/react project 32.PNG" width=450px height=250px />|
+| :---------------------------------- | -----------------------------:|
 
